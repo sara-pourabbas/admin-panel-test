@@ -1,0 +1,130 @@
+{
+  "chartData": [
+    {
+      "label": "Mo",
+      "value": 10
+    },
+    {
+      "label": "Tu",
+      "value": 20
+    },
+    {
+      "label": "We",
+      "value": 30
+    },
+    {
+      "label": "Th",
+      "value": 40
+    },
+    {
+      "label": "fr",
+      "value": 50
+    },
+    {
+      "label": "St",
+      "value": 60
+    },
+    {
+      "label": "Su",
+      "value": 70
+    },
+    {
+      "label": "Mo",
+      "value": 80
+    },
+    {
+      "label": "Tu",
+      "value": 90
+    },
+    {
+      "label": "We",
+      "value": 100
+    },
+    {
+      "label": "Th",
+      "value": 10
+    },
+    {
+      "label": "fr",
+      "value": 20
+    },
+    {
+      "label": "St",
+      "value": 30
+    },
+    {
+      "label": "Su",
+      "value": 40
+    }
+  ],
+  "chartProgress": [
+    {
+      "title": "Visits",
+      "data": 29.703,
+      "type": "User",
+      "percent": "19"
+    },
+    {
+      "title": "Unique",
+      "data": 24.093,
+      "type": "Views",
+      "percent": "25"
+    },
+    {
+      "title": "Pageviews",
+      "data": 78.706,
+      "type": "Rate",
+      "percent": "50"
+    },
+    {
+      "title": "Bounce Rate",
+      "data": 30.222,
+      "type": "Views",
+      "percent": "90"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userName": "jon",
+      "phone": "44115522",
+      "startDate": "2019-01-13T19:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "userName": "jac",
+      "phone": "44113366",
+      "startDate": "2019-01-13T19:30:00.000Z"
+    },
+    {
+      "userName": "sara",
+      "phone": "44118899",
+      "startDate": "2019-01-13T19:30:00.000Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "userName": "kate",
+      "phone": "44114477",
+      "startDate": "2019-01-13T19:30:00.000Z"
+    },
+    {
+      "userName": "tt",
+      "phone": "44",
+      "startDate": "2019-10-10T11:41:31.971Z",
+      "id": 6
+    },
+    {
+      "userName": "mahtab",
+      "phone": "55",
+      "startDate": "2019-10-17T16:43:42.245Z",
+      "id": 8
+    },
+    {
+      "userName": "oo",
+      "phone": "5",
+      "startDate": "2019-11-07T16:05:57.526Z",
+      "id": 9
+    }
+  ]
+}

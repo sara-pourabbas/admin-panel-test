@@ -1,0 +1,20 @@
+// Here you can add other styles
+
+.btn-info{
+  color:white;
+  &:hover{
+  color:white
+}
+}
+.table{
+  th{
+    vertical-align: middle;
+  }
+  td{
+    vertical-align: middle;
+  }
+}
+
+.app-header .navbar-nav .dropdown-menu-right{
+  right:0 !important;
+}
