@@ -14,7 +14,8 @@ export const SearchBar = props =>{
             <Input  type="search" id="input2-group2" name="input2-group2" placeholder="Search"
                     value={props.value || ''} onChange={e=>props.Change(e.target.value)}/>
             <InputGroupAddon addonType="append">
-              <Button onClick={props.onSearch} type="button" color="primary"><i className="fa fa-search" /> Search</Button>
+              <Button onClick={props.onSearch} type="button" color="primary">
+                  <i className="fa fa-search" /> Search</Button>
             </InputGroupAddon>
           </InputGroup>
         </Col>
